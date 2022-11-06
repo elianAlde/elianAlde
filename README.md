@@ -1,7 +1,7 @@
 ![MasterHead](https://www.krome.sg/wp-content/media/what-might-make-for-a-html5-successor-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Elian Alderuccio</h1>
-<h3 align="center">A software Engeneering student from Italia</h3>
+<h3 align="center">A software Engeneering student from Italy</h3>
 
 - 🌱 I’m currently learning **JS Frameworks**
 
