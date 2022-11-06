@@ -21,5 +21,5 @@
 <h3 align="left">My GitHub information:</h3>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=elianalde&show_icons=true&locale=en">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianAlde&layout=compact">
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianAlde&layout=compact">
 
