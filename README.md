@@ -20,6 +20,6 @@
 
 <h3 align="left">My GitHub information:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elianalde&show_icons=true&locale=en" alt="elianalde" /></p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=elianalde&show_icons=true&locale=en">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianAlde&layout=compact">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianAlde&layout=compact)
