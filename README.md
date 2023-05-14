@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Elian Alderuccio</h1>
 <h3 align="center">A software Engeneering student from Italy</h3>
 
-- 🌱 I’m currently learning **JS Frameworks**
+- 🌱 I’m currently learning **front-end development**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, php, Java, C++**
 
-- 📫 How to reach me **elian.alderuccio@outlook.it**
+- 📫 How to reach me **elianalderuccio00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
