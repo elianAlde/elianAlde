@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Elian Alderuccio</h1>
 <h3 align="center">A software Engeneering student from Italy</h3>
 
-- 🌱 I’m currently learning **front-end development**
+- 🌱 I’m currently learning **back-end development with PHP e MySQL**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, php, Java, C++**
 
