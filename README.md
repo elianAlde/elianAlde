@@ -9,7 +9,7 @@
 
 <!--- 💬 Ask me about **Full Stack development**-->
 
-- 📫 How to reach me **elian.alderuccio00@outlook.it**
+- 📫 How to reach me **elian.alderuccio@outlook.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
