@@ -34,7 +34,7 @@ Generates strong, memorable passphrases with cryptographically secure randomness
 
 ## Professional experience
 
-**Full-Stack Developer on RFID/NFC product management systems · 3 years**
+**Full-Stack Developer · Autentico Srl** · Jul 2023 – Sep 2026
 
 Design and development of web-based management software that tracks products through RFID and NFC tags, from the database to the user interface.
 
