@@ -38,15 +38,13 @@ Generates strong, memorable passphrases with cryptographically secure randomness
 
 Design and development of web-based management software that tracks products through RFID and NFC tags, from the database to the user interface.
 
-`PHP` `JavaScript` `MySQL`
+`PHP` `Laravel` `JavaScript` `jQuery` `MySQL` `Microsoft SQL Server`
 
 ## Education
 
 **MSc in Computer Engineering, High Performance Computing** · University of Catania · in progress
 
 **BSc in Computer Engineering** · University of Catania · thesis in progress
-
-**Technical High School Diploma, Computer Science and Telecommunications** · I.T.I Enrico Fermi Siracusa
 
 ## Skills
 
@@ -56,4 +54,4 @@ Design and development of web-based management software that tracks products thr
 | **Frameworks** | Bootstrap, jQuery, Laravel |
 | **Databases** | MySQL, Microsoft SQL Server, SQLite |
 | **IoT** | Bluetooth Low Energy, RFID/NFC |
-| **Tools** | Git, GitHub, Postman, Plesk |
+| **Tools** | Git, GitHub, Linux, Postman, REST APIs |
