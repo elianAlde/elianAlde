@@ -34,7 +34,7 @@ Generates strong, memorable passphrases with cryptographically secure randomness
 
 ## Professional experience
 
-**RFID/NFC product management systems · 3 years**
+**Full-Stack Developer on RFID/NFC product management systems · 3 years**
 
 Design and development of web-based management software that tracks products through RFID and NFC tags, from the database to the user interface.
 
@@ -46,12 +46,14 @@ Design and development of web-based management software that tracks products thr
 
 **BSc in Computer Engineering** · University of Catania · thesis in progress
 
+**Technical High School Diploma, Computer Science and Telecommunications** · I.T.I Enrico Fermi Siracusa
+
 ## Skills
 
 | | |
 |---|---|
-| **Languages** | Python, PHP, JavaScript, C++, SQL |
-| **Web** | HTML, CSS, Bootstrap |
-| **Databases** | MySQL, SQLite |
+| **Languages** | Python, PHP, JavaScript, C++ |
+| **Frameworks** | Bootstrap, jQuery, Laravel |
+| **Databases** | MySQL, Microsoft SQL Server, SQLite |
 | **IoT** | Bluetooth Low Energy, RFID/NFC |
-| **Tools** | Git, GitHub |
+| **Tools** | Git, GitHub, Postman, Plesk |
