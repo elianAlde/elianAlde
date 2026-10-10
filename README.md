@@ -1,6 +1,6 @@
 # Elian Alderuccio
 
-I am an MSc student in **High Performance Computing** with 3 years of professional experience as a full-stack developer on RFID/NFC product management systems. My bachelor's thesis is about locating livestock with a drone and Bluetooth beacons.
+I am an MSc student in **High Performance Computing** with 3 years of professional experience as a full-stack developer on RFID/NFC product management systems. My bachelor's thesis is about locating livestock with a drone and BLE beacons.
 
 [Portfolio](https://elianalde.github.io/) · [LinkedIn](https://www.linkedin.com/in/elian-alderuccio/) · [elian.alderuccio@outlook.it](mailto:elian.alderuccio@outlook.it)
 
