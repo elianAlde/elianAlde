@@ -1,6 +1,6 @@
 # Elian Alderuccio
 
-I am an MSc student in **High Performance Computing** with 3 years of professional experience as a full-stack developer on RFID/NFC product management systems. My bachelor's thesis is about locating livestock with a drone and BLE beacons.
+I am an MSc student in **Cloud and High Performance Computing** with 3 years of professional experience as a full-stack developer on RFID/NFC product management systems. My bachelor's thesis is about locating livestock with a drone and BLE beacons.
 
 [Portfolio](https://elianalde.github.io/) · [LinkedIn](https://www.linkedin.com/in/elian-alderuccio/) · [elian.alderuccio@outlook.it](mailto:elian.alderuccio@outlook.it)
 
@@ -42,7 +42,7 @@ Design and development of web-based management software that tracks products thr
 
 ## Education
 
-**MSc in Computer Engineering, High Performance Computing** · University of Catania · in progress
+**MSc in Computer Engineering, Cloud and High Performance Computing** · University of Catania · in progress
 
 **BSc in Computer Engineering** · University of Catania · thesis in progress
 
