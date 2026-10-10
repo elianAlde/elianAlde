@@ -1,58 +1,59 @@
-![MasterHead](https://www.krome.sg/wp-content/media/what-might-make-for-a-html5-successor-1.jpg)
+# Elian Alderuccio
 
-<h1 align="center">Hi 👋, I'm Elian Alderuccio</h1>
-<h3 align="center">A Full Stack developer & Computer Engineering student from Italy</h3>
+**Full-stack developer · MSc student in Computer Engineering (High Performance Computing) at the University of Catania, Italy**
 
-<!--- 🌱 I’m currently learning **back-end development with PHP API development and DBMS e MySQL**-->
+I am an MSc student in **High Performance Computing** with 3 years of professional experience in RFID/NFC product management systems. My bachelor's thesis is about locating livestock with a drone and Bluetooth beacons.
 
-<!--- 💬 Ask me about **TML, CSS, JavaScript, php, Java, C++**-->
+[Portfolio](https://elianalde.github.io/) · [LinkedIn](https://www.linkedin.com/in/elian-alderuccio/) · [elian.alderuccio@outlook.it](mailto:elian.alderuccio@outlook.it)
 
-<!--- 💬 Ask me about **Full Stack development**-->
+## Featured projects
 
-- 📫 How to reach me **elian.alderuccio@outlook.it**
+### Drone Livestock Tracker · bachelor's thesis, in progress
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elian-alderuccio-245a94265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elian-alderuccio-245a94265/" height="30" width="40" /></a>
+A Raspberry Pi mounted on a DJI Matrice 350 RTK drone detects BLE beacons worn by cattle, logs every detection together with the drone's GPS position, and uses that data to estimate where each animal is. The goal: help farmers find lost cattle across large pastures.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+`Python` `Bluetooth Low Energy` `Raspberry Pi` `GPS` `SQLite`
 
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
+The repository will be public together with the first field results.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
+### [Proxyx](https://github.com/elianAlde/proxyx)
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
+Desktop application that arranges trading card proxies into print-ready sheets and exports them to PDF in seconds.
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+`Python` `CustomTkinter` `PDF generation`
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
+### [EYEDOM](https://github.com/elianAlde/eyedom) · [live demo](https://elianalde.github.io/eyedom/)
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+Experimental OSINT dashboard that aggregates public sources and maps earthquakes, natural disasters, weather and world news on an interactive 3D globe in real time.
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+`JavaScript` `HTML` `CSS`
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
+### [Diceware Passphrase Generator](https://github.com/elianAlde/passphrase-generator) · [live demo](https://elianalde.github.io/passphrase-generator/)
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+Generates strong, memorable passphrases with cryptographically secure randomness and shows their entropy and estimated crack time. Runs fully offline, with no backend.
 
-</p>
+`JavaScript` `Bootstrap`
 
+## Professional experience
+
+**RFID/NFC product management systems · 3 years**
+
+Design and development of web-based management software that tracks products through RFID and NFC tags, from the database to the user interface.
+
+`PHP` `JavaScript` `MySQL`
+
+## Education
+
+**MSc in Computer Engineering, High Performance Computing** · University of Catania · in progress
+
+**BSc in Computer Engineering** · University of Catania · thesis in progress
+
+## Skills
+
+| | |
+|---|---|
+| **Languages** | Python, PHP, JavaScript, C++, SQL |
+| **Web** | HTML, CSS, Bootstrap |
+| **Databases** | MySQL, SQLite |
+| **IoT** | Bluetooth Low Energy, RFID/NFC |
+| **Tools** | Git, GitHub |
