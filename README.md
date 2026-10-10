@@ -10,7 +10,7 @@ I am an MSc student in **High Performance Computing** with 3 years of profession
 
 A Raspberry Pi mounted on a DJI Matrice 350 RTK drone detects BLE beacons worn by cattle, logs every detection together with the drone's GPS position, and uses that data to estimate where each animal is. The goal: help farmers find lost cattle across large pastures.
 
-`Python` `Bluetooth Low Energy` `Raspberry Pi` `GPS` `SQLite`
+`Python` `Bluetooth Low Energy` `Raspberry Pi` `GPS`
 
 The repository will be public together with the first field results.
 
